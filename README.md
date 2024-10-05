@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Java, Kotlin, C, C++, Swift. 
 - 💞️ I’m looking to collaborate on teams that maximize responsibility, productivity and time as fundamental factors of teamwork. 
 - 📫 How to reach me:
-Telegram
+Telegram: @julianmeoficial
 Email: julianmeoutm57@outlook.com
-- 😄 Pronouns: He/Him ..
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like productivity, but sometimes I'm lazy to do simple things. 
 
 <!---
