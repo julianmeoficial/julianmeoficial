@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @julianmeoficial
-- 👀 I’m interested in coding, videogames, software engineering, HUAWEI, HARMONYOS Next, Microsoft, Apple. 
+- 👀 I’m interested in coding, videogames, software engineering, Microsoft, Apple, HUAWEI. 
 - 🌱 I’m currently learning Java, Kotlin, C, C++, Swift. 
 - 💞️ I’m looking to collaborate on teams that maximize responsibility, productivity and time as fundamental factors of teamwork. 
 - 📫 How to reach me:
-Telegram: @julianmeoficial
+Telegram: @julianmeoficialtg
 Email: julianmeoutm57@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like productivity, but sometimes I'm lazy to do simple things. 
