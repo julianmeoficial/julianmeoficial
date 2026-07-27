@@ -18,35 +18,27 @@ Open to opportunities
 
 **Languages**
 
-Java
-TypeScript
-JavaScript
-Kotlin
-Swift
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,ts,js,kotlin,swift" alt="Java, TypeScript, JavaScript, Kotlin, Swift" />
+</p>
 
 **Frontend**
 
-React
-Next.js
-Vite
-HTML
-CSS
-Tailwind
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind" alt="React, Next.js, Vite, HTML, CSS, Tailwind" />
+</p>
 
 **Backend & Data**
 
-Spring
-PostgreSQL
-Supabase
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,postgres,supabase" alt="Spring, PostgreSQL, Supabase" />
+</p>
 
 **Tools**
 
-Git
-GitHub
-Vercel
-Figma
-Maven
-Gradle
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,maven,gradle" alt="Git, GitHub, Vercel, Figma, Maven, Gradle" />
+</p>
 
 Also: **GSAP** · **Prisma** · **WebSocket** · **JWT** · **REST APIs**
 
