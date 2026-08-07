@@ -4,41 +4,29 @@
 
 I merge clean architecture with extreme visual experiences — frontend & full-stack with **React**, **TypeScript**, **Spring Boot**, and **GSAP**.
 
-7th-semester Software Engineering at the University of Cartagena · Full-Stack Programming instructor
+7th-semester Software Engineering at the University of Cartagena.
 
-Open to opportunities
-
-
+Open to opportunities.
 
 ---
-
-
 
 ## Tech Stack
 
 **Languages**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,kotlin,swift" alt="Java, TypeScript, JavaScript, Kotlin, Swift" />
-</p>
+
 
 **Frontend**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind" alt="React, Next.js, Vite, HTML, CSS, Tailwind" />
-</p>
+
 
 **Backend & Data**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,postgres,supabase" alt="Spring, PostgreSQL, Supabase" />
-</p>
+
 
 **Tools**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,maven,gradle" alt="Git, GitHub, Vercel, Figma, Maven, Gradle" />
-</p>
+
 
 Also: **GSAP** · **Prisma** · **WebSocket** · **JWT** · **REST APIs**
 
@@ -73,8 +61,6 @@ Also: **GSAP** · **Prisma** · **WebSocket** · **JWT** · **REST APIs**
 
 
 ## GitHub Stats
-
-
 
 ---
 
