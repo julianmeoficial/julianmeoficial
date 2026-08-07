@@ -14,28 +14,29 @@ Open to opportunities.
 
 **Languages**
 
-
+<!-- TECH_ICONS:Languages — no editar esta línea ni la imagen de abajo -->
+![Java, TypeScript, JavaScript, Kotlin, Swift](https://skillicons.dev/icons?i=java,ts,js,kotlin,swift)
 
 **Frontend**
 
-
+<!-- TECH_ICONS:Frontend — no editar esta línea ni la imagen de abajo -->
+![React, Next.js, Vite, HTML, CSS, Tailwind](https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind)
 
 **Backend & Data**
 
-
+<!-- TECH_ICONS:Backend — no editar esta línea ni la imagen de abajo -->
+![Spring, PostgreSQL, Supabase](https://skillicons.dev/icons?i=spring,postgres,supabase)
 
 **Tools**
 
-
+<!-- TECH_ICONS:Tools — no editar esta línea ni la imagen de abajo -->
+![Git, GitHub, Vercel, Figma, Maven, Gradle](https://skillicons.dev/icons?i=git,github,vercel,figma,maven,gradle)
 
 Also: **GSAP** · **Prisma** · **WebSocket** · **JWT** · **REST APIs**
 
 ---
 
-
-
 ## Featured Projects
-
 
 | Project           | Description                                                                                                                                                                              | Links                                                                                                     |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
@@ -46,10 +47,7 @@ Also: **GSAP** · **Prisma** · **WebSocket** · **JWT** · **REST APIs**
 | **RLC Lab**       | Next.js web app modeling a series RLC circuit in AC, solving the ODE with Runge–Kutta 4, visualizing impedance, phasors, and damping regime, linked to five real-world industrial cases. | [Code](https://github.com/julianmeoficial/rlc-lab) · [Preview](https://julianmeoficial.vercel.app/)       |
 | **Zoro Security** | Documentary case study of an MCP server for BrevKu that orchestrates security scans and observability via GitHub Actions and Cloudflare Workers — 17 tools, Notion sync, and AI agents.  | [Code](https://github.com/julianmeoficial/BK-OPS-Security-Case-Study)                                     |
 
-
 ---
-
-
 
 ## About
 
@@ -58,9 +56,6 @@ Also: **GSAP** · **Prisma** · **WebSocket** · **JWT** · **REST APIs**
 
 ---
 
-
-
 ## GitHub Stats
 
 ---
-
